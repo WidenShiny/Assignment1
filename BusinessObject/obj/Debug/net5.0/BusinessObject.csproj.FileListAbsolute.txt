@@ -1,0 +1,5 @@
+D:\Semester-5th\PRN211\Code\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Semester-5th\PRN211\Code\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester-5th\PRN211\Code\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Semester-5th\PRN211\Code\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\Semester-5th\PRN211\Code\Ass01Solution\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache

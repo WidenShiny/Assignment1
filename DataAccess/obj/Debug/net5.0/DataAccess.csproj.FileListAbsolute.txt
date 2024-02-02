@@ -1,0 +1,5 @@
+D:\Semester-5th\PRN211\Code\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\Semester-5th\PRN211\Code\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester-5th\PRN211\Code\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\Semester-5th\PRN211\Code\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\Semester-5th\PRN211\Code\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
